@@ -1,0 +1,10 @@
+*.pyc
+
+# 日志文件
+local_config.py
+
+# 日志文件
+*.log
+
+# 编辑器文件
+.idea

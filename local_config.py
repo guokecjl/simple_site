@@ -10,13 +10,30 @@ GT_KEY = "ec83a1fe5b0031515024b0c89dd72ba5"
 
 EID = '5bcd76c524c7651c5053ee38'
 SCENE_ID = 'da4530d9fe6d4438a0422720127b4c57'
-PRIVATE_KEY = b'-----BEGIN RSA PRIVATE KEY-----\nMIIBOwIBAAJBAM2qfdqH9cC0' \
-              b'cXbzwDTFvL1QzJMPb3NPTPMHJ09jy4t8lI0MimR8\n8AMn6V5jKt9Wby0' \
-              b'e9GaP7nYIOjHwnX7pyxECAwEAAQJAOxquBGliNLkminrOV9wj\nu3xG7l' \
-              b'RXQRofERCTOXuCOW1XPxzpPoSbez6Xnq4FKeIEXo6IJqjYwVputA6Mnp9' \
-              b'U\nCQIjAN5vAX+JHuhISaRpx/dceULMhgR/9ao+13+Nu8PHsQ/TFDcCHw' \
-              b'Dss7khBbyV\nejK6MprkPiF8g9gBLJJy/XVmtKJ4BvcCIjEjeMNB+Y/7G' \
-              b'Dm4HLLqvOci46Bu3Eil\n5VmKaCaSIO2MBfUCHjiYiG1i58J9418t9mcY' \
-              b'i/0vsRgmxiWEgOu7yRUV5QIiX3jW\nX8BhPfNAqCup7Ucy5DlJxP/6VK4' \
-              b'1fUt6OynZhW2pDQ==\n-----END RSA PRIVATE KEY-----\n'
+PRIVATE_KEY = b'-----BEGIN RSA PRIVATE KEY-----\nMIICYAIBAAKBgQDWK' \
+              b'AwGjdySy6DouzEffaqeO2JjnrNO6+Re0jQ2efJR5MljsCSC\nA' \
+              b'Wc4XBWkG7CvQyBV3Nj/JV0V1rwYSAJ0PfPgmx38SxCWCSkc84C' \
+              b'EHdELO661NWnH\nZLW1dBcmr5lcWnVYCp5mXGK92f8lfapXXFf' \
+              b'8RUUZq66EOXupDlks1BcYgQIDAQAB\nAoGAZ6Rn9YAQYMbFr/x' \
+              b'wEKJ7wSpSOo4ijy5gjndCp56q5HFJ+cHUWUqejssZ+hsg\njiF' \
+              b'5c7R3HDwT6a7LxyCKCaOUBWVz5iZtN7WGB/cH8TO3CLT8bzFmj' \
+              b'DBFQtmnFgf8\nEj6ZKcGoCNjI4jPlE70v1y2g1HrkYrr8i8gij' \
+              b'gpSoyxiVqUCRQDjBEkOC0IuR/KA\nOAsf7sdI0t7fpABQfewvt' \
+              b'UtZdi2O1lNpl3BmSoF+3KDhzSWryCQfjPQ/I6wWwcky\nkU63c' \
+              b'OLdudmc8wI9APF/cOiLNiMmhRDrORuS1HPrEna9Z/JceZ5T+/e' \
+              b'6hwq3JRXm\nHfNUvXIZ5uCT9hw056Af+Nq4H6Xm5ImBuwJERma' \
+              b'50SUkrP2a8rBuosSGAMuEWo6d\nmliyukjayS+hCT7mN0TDkrV' \
+              b'gW1tIeT4JhLBYo4Au7rW9VIFcR9ZQNwtHD8Pm/IkC\nPGC6lPT' \
+              b'v3a1SnnXaYbNjqmkLvQeGcf4ngCckqIXfVnu6Q8Zzt4dhZ8guC' \
+              b'8XkPe2q\nWyRN6hVhLnv68YsKRQJFALh5wN99FTW0tRGT/pwos' \
+              b'eXqIDl1ZZLR4do6S4LjDLPR\n9vVBy5D0wxzkWt6fgSnW5caUG' \
+              b'gPgOLG3WqKWAuc6SXd09KHw\n-----END RSA PRIVATE KEY-' \
+              b'----'
+PUBLIC_KEY = b'-----BEGIN RSA PUBLIC KEY-----\nMIGJAoGBAJ/UU/05AxJNNM9o93tmbW' \
+             b'ZZoDEprQsB9OdyijIE8i1gFpocMRQied9v\n7DcZS8tRPclKahCA+CnwSYaSJw' \
+             b'FMkqihfRnW227/T6XYfdW66LsG3wRO74wq6fhi\nT0PyrQg8grc/3QHk6ZCmM+' \
+             b'+FgCPanIDjphKzZNIauIJZ3MhlQLMXAgMBAAE=\n-----END RSA PUBLIC KEY-----\n'
+
+KEY_ID = '5bcd76c524c7651c5053ee38-key1'
+
 EXPIRES_IN = 180

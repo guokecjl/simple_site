@@ -2,7 +2,8 @@
 # -*- coding: utf-8 -*-
 
 from .handler import LoginHandler, LogoutHandler, PcGetCaptchaHandler,\
-    GetLoginResultHandler, LoginSuccessHandler, ReceiveUserInfoHandler,\
+    LoginSuccessHandler
+from .ego_login import ReceiveUserInfoHandler, GetLoginResultHandler,\
     GetQrCodeHandler, UserScanHandler
 
 url = [
